@@ -1,5 +1,8 @@
 ###  Olá! Aqui eu sou o TechDavidDev, mas pode me chamar de David Maia! 😃🤪
+Sou estudante do curso de Sistemas de Informção pela Universidade Federal da Paraíba, sou programador Java e apaixonado por tecnologia! ☕👨‍💻
+
 - 🌱 Estudando Java, Spring Boot, Angular e Cibersegurança... 
+
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=techdaviddev&show_icons=true&theme=tokyonight)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techdaviddev&show_icons=true&theme=tokyonight&layout=compact) 
 
