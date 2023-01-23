@@ -1,10 +1,10 @@
 ###  Olá! Aqui eu sou o TechDavidDev, mas pode me chamar de David Maia! 😃🤪
-Sou estudante do curso de Sistemas de Informção pela Universidade Federal da Paraíba, sou programador Java e apaixonado por tecnologia! ☕👨‍💻
+## Sou estudante do curso de Sistemas de Informção pela Universidade Federal da Paraíba, sou programador Java e apaixonado por tecnologia! ☕👨‍💻
 
 - 🌱 Estudando Java, Spring Boot, Angular e Cibersegurança... 
 
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=techdaviddev&show_icons=true&theme=tokyonight)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techdaviddev&show_icons=true&theme=tokyonight&layout=compact) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techdaviddev&repo=DsMetaDavid&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=techdaviddev&show_icons=true&theme=tokyonight)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techdaviddev&show_icons=true&theme=tokyonight&layout=compact) 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
