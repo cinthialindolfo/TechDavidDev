@@ -1,4 +1,6 @@
-###  Olá! Aqui eu sou o TechDavidDev, mas pode me chamar de David Maia!Sou estudante do curso de Sistemas de Informção pela Universidade Federal da Paraíba, sou programador Java e apaixonado por tecnologia! ☕👨‍💻
+###  Olá! Aqui eu sou o TechDavidDev, mas pode me chamar de David Maia! 
+<hr>
+### Sou estudante do curso de Sistemas de Informção pela Universidade Federal da Paraíba, sou programador Java e apaixonado por tecnologia! ☕👨‍💻
 
 - 🌱 Estudando Java, Spring Boot, Angular e Cibersegurança... 
 
